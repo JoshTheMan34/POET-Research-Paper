@@ -12,6 +12,7 @@ $ffSecondary: "Muli", sans-serif;
 html,
 body {
 	height: 100%;
+	overflow-x: hidden;
 }
 figure {
 	margin: 0;
@@ -88,8 +89,6 @@ h1,
 
 //JUMBOTRON
 .jumbotron {
-	position: relative;
-	overflow: hidden;
 	margin-bottom: 0;
 	padding-top: 0;
 	padding-bottom: 0;
