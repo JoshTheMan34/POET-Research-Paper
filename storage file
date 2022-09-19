@@ -250,3 +250,80 @@
             animation-name: jumbotronFigureVisible;
   }
   
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  <section class="jumbotron1">
+    <!-- //JUMBOTRON -->
+<article class="jumbotron">
+
+<!-- //JUMBOTRON - Figure -->
+<figure class="jumbotronFigure" id="jumbotronFigure">
+    <img src="img/shoes-upclose.avif" alt="" />
+</figure>
+<!-- JUMBOTRON - Figure// -->
+
+<!-- //JUMBOTRON - Container -->
+<div class="jumbotronContainer" id="jumbotronContainer">
+    <div class="jumbotronContainerBefore" id="jumbotronContainerBefore"></div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                
+                <!-- //JUMBOTRON - Header -->
+                <header class="jumbotronHeader">
+                    
+                    <!-- //JUMBOTRON - Category -->
+                    <small class="jumbotronCategory" id="jumbotronCategory">
+                        PHOTO OF THE DAY
+                    </small>
+                    <!-- JUMBOTRON - Category// -->
+                    
+                    <!-- //JUMBOTRON - Title -->
+                    <h1 class="jumbotronTitle" id="jumbotronTitle">
+                        February 2018
+                    </h1>
+                    <!-- JUMBOTRON - Title// -->
+
+                </header>
+                <!-- JUMBOTRON - Header// -->
+                
+                <!-- //JUMBOTRON - Body -->
+                <div class="jumbotronBody" id="jumbotronBody">
+                    <p>
+                        Every day, we feature an image chosen from thousands.
+                    </p>
+                    <p>
+                        Here are ten favorites from February.
+                    </p>
+                </div>
+                <!-- JUMBOTRON - Body// -->
+                
+                <!-- //JUMBOTRON - Footer -->
+                <footer class="jumbotronFooter" id="jumbotronFooter">
+                    <a class="btn btn-primary popup-btn" href="#" role="button">
+                        VIEW IMAGES <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+                    </a>
+                </footer>
+                <!-- JUMBOTRON - Footer// -->
+
+            </div>
+        </div>
+
+        <!-- JUMBOTRON - Container// -->
+    </div>
+</div>
+</article>
+
+    <!-- JUMBOTRON// -->
+</section>

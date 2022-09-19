@@ -492,3 +492,28 @@ $(document).ready(function() {
 	  })(window);
 	// Index Page Animations for the different pages End //
 
+
+
+
+// Information Pages Start //
+
+
+/* Please ❤ this if you like it! */
+
+
+(function($) { "use strict";
+		
+	//Wildlife portfolio page
+	
+	$(".wildlife").on('click', function () {
+		$("body").addClass("wildlife-on");
+	});
+	$(".wildlife-close").on('click', function () {
+		$("body").removeClass("wildlife-on");
+	});
+
+	
+
+})(jQuery); 
+// Information Pages End //
+
